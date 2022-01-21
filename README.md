@@ -1,7 +1,5 @@
 # Printful technical task
 
-You can view the full task [HERE](src/assets/project/Front-end_Developer_Technical_task.pdf)
-
 ![Project GIF](src/assets/images/projectRecord.gif)
 
 ## Project architecture
